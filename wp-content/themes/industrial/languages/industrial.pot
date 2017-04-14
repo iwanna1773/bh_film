@@ -1,0 +1,2705 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Industrial\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Apr 13 2016 11:47:30 GMT+0200 (Central Europe "
+"Daylight Time)\n"
+"POT-Revision-Date: Mon Jul 04 2016 09:01:04 GMT+0200 (Central Europe "
+"Daylight Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:16
+msgid "It seems that something went wrong!"
+msgstr ""
+
+#: ../404.php:17
+msgid "This page does not exist."
+msgstr ""
+
+#: ../archive.php:20 ../index.php:24 ../anps-framework/shortcodes_functions.php:139
+msgid "Previous "
+msgstr ""
+
+#: ../archive.php:21 ../index.php:25 ../search.php:36 ../anps-
+#: framework/shortcodes_functions.php:140 ../woocommerce/loop/pagination.php:29 ..
+#: /woocommerce/myaccount/orders.php:112 ../woocommerce-legacy/loop/pagination.
+#: php:29
+msgid "Next"
+msgstr ""
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:10
+msgid "Comment on "
+msgstr ""
+
+#: ../comments.php:24
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:31 ../anps-framework/sidebar_generator.php:105 ..
+#: /woocommerce/single-product-reviews.php:76 ../woocommerce-legacy/single-
+#: product-reviews.php:76
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:34 ../woocommerce/single-product-reviews.php:79 ../woocommerce-
+#: legacy/single-product-reviews.php:79
+msgid "E-mail"
+msgstr ""
+
+#: ../comments.php:49 ../comments.php:61
+msgid "Message"
+msgstr ""
+
+#: ../comments.php:52 ../comments.php:53
+msgid "Post comment"
+msgstr ""
+
+#: ../comments.php:64 ../comments.php:65
+msgid "Leave a reply"
+msgstr ""
+
+#: ../functions.php:180
+msgid "Reset"
+msgstr ""
+
+#: ../functions.php:181 ../anps-framework/helpers.php:583
+msgid "Search..."
+msgstr ""
+
+#: ../search.php:12
+msgid "Showing results for:"
+msgstr ""
+
+#: ../search.php:15
+msgid "Or try your luck again:"
+msgstr ""
+
+#: ../search.php:16
+msgid "enter your text here"
+msgstr ""
+
+#: ../search.php:36 ../woocommerce/loop/pagination.php:28 ..
+#: /woocommerce/myaccount/orders.php:108 ../woocommerce-legacy/loop/pagination.
+#: php:28
+msgid "Previous"
+msgstr ""
+
+#: ../search.php:39
+msgid "No results have been found for your search query"
+msgstr ""
+
+#: ../search.php:40
+msgid "Please try again or navigate to another page"
+msgstr ""
+
+#: ../sidebar-secondary.php:27
+msgid "Archives"
+msgstr ""
+
+#: ../sidebar-secondary.php:34
+msgid "Meta"
+msgstr ""
+
+#: ../anps-framework/blank_page_meta.php:6
+msgid "Blank page"
+msgstr ""
+
+#: ../anps-framework/blank_page_meta.php:18
+msgid "Disable Header"
+msgstr ""
+
+#: ../anps-framework/blank_page_meta.php:24
+msgid "Disable Footer"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../anps-framework/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:393 ../anps-framework/class-
+#: tgm-plugin-activation.php:912 ../anps-framework/class-tgm-plugin-activation.
+#: php:2618 ../anps-framework/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:394 ../anps-framework/class-
+#: tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:395 ../anps-framework/class-
+#: tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:1019 ../anps-framework/class-
+#: tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:1206 ../anps-framework/class-
+#: tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: ../anps-framework/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2361 ../anps-
+#: framework/views/system_req_view.php:36
+msgid "Recommended"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../anps-framework/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2639 ../woocommerce-
+#: legacy/myaccount/my-orders.php:27
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../anps-framework/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../anps-framework/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../anps-framework/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3594 ../anps-framework/class-
+#: tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3594 ../anps-framework/class-
+#: tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../anps-framework/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../anps-framework/featured_video_meta.php:8
+msgid "Featured video"
+msgstr ""
+
+#: ../anps-framework/gallery_images.php:31 ../anps-framework/gallery_images.php:91
+msgid "Delete image"
+msgstr ""
+
+#: ../anps-framework/gallery_images.php:31 ../anps-framework/gallery_images.php:91
+msgid "Delete"
+msgstr ""
+
+#: ../anps-framework/gallery_images.php:42
+msgid "Add gallery images"
+msgstr ""
+
+#: ../anps-framework/gallery_images.php:68
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: ../anps-framework/gallery_images.php:70
+msgid "Add to gallery"
+msgstr ""
+
+#: ../anps-framework/gallery_images.php:158
+msgid "Gallery images"
+msgstr ""
+
+#: ../anps-framework/header_options_meta.php:6 ../anps-framework/views/admin_view.
+#: php:36
+msgid "Header options"
+msgstr ""
+
+#: ../anps-framework/header_options_meta.php:7
+msgid "Spacing options"
+msgstr ""
+
+#: ../anps-framework/header_options_meta.php:13 ../anps-
+#: framework/widgets/AnpsSocial.php:64
+msgid "Default"
+msgstr ""
+
+#: ../anps-framework/header_options_meta.php:13
+msgid "Off"
+msgstr ""
+
+#: ../anps-framework/header_options_meta.php:13
+msgid "On"
+msgstr ""
+
+#: ../anps-framework/header_options_meta.php:18
+msgid "Top bar"
+msgstr ""
+
+#: ../anps-framework/header_options_meta.php:34
+msgid "Above menu"
+msgstr ""
+
+#: ../anps-framework/header_options_meta.php:79
+msgid "Remove Header Margin"
+msgstr ""
+
+#: ../anps-framework/header_options_meta.php:85
+msgid "Remove Footer Margin"
+msgstr ""
+
+#: ../anps-framework/heading_meta.php:13 ../anps-framework/heading_meta.php:15
+msgid "Page title and breadcrumbs"
+msgstr ""
+
+#: ../anps-framework/heading_meta.php:65 ../anps-framework/views/header_view.php:
+#: 269
+msgid "Page heading background"
+msgstr ""
+
+#: ../anps-framework/heading_meta.php:74 ../anps-
+#: framework/views/options_media_view.php:25
+msgid "Logo"
+msgstr ""
+
+#: ../anps-framework/heading_meta.php:90 ../anps-
+#: framework/views/options_media_view.php:49
+msgid "Sticky logo"
+msgstr ""
+
+#: ../anps-framework/heading_meta.php:106 ../anps-
+#: framework/views/options_media_view.php:75
+msgid "Mobile logo"
+msgstr ""
+
+#: ../anps-framework/heading_meta.php:122
+msgid "Full screen heading"
+msgstr ""
+
+#: ../anps-framework/heading_meta.php:132
+msgid "Page heading video background"
+msgstr ""
+
+#: ../anps-framework/heading_meta.php:140 ../anps-framework/views/header_view.php:
+#: 114 ../anps-framework/views/header_view.php:182
+msgid "Top bar color"
+msgstr ""
+
+#: ../anps-framework/heading_meta.php:148
+msgid "Menu and title color"
+msgstr ""
+
+#: ../anps-framework/heading_meta.php:156
+msgid "Hover color"
+msgstr ""
+
+#: ../anps-framework/helpers.php:159
+msgid "Daily Archives"
+msgstr ""
+
+#: ../anps-framework/helpers.php:161
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../anps-framework/helpers.php:163
+msgid "Yearly Archives"
+msgstr ""
+
+#: ../anps-framework/helpers.php:165 ../templates/template-breadcrumbs.php:35
+msgid "Search results"
+msgstr ""
+
+#: ../anps-framework/helpers.php:167 ../templates/template-breadcrumbs.php:37
+msgid "Posts tagged"
+msgstr ""
+
+#: ../anps-framework/helpers.php:173 ../templates/template-breadcrumbs.php:41
+msgid "Page not found"
+msgstr ""
+
+#: ../anps-framework/helpers.php:175 ../templates/template-breadcrumbs.php:39
+msgid "Articles posted by"
+msgstr ""
+
+#: ../anps-framework/helpers.php:731
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../anps-framework/helpers.php:881
+msgid "posted by:"
+msgstr ""
+
+#: ../anps-framework/helpers.php:959
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../anps-framework/metaboxes.php:7
+msgid "Side Content"
+msgstr ""
+
+#: ../anps-framework/portfolio_meta.php:7
+msgid "Project info table"
+msgstr ""
+
+#: ../anps-framework/portfolio_meta.php:11
+msgid "Breadcrumbs parent page"
+msgstr ""
+
+#: ../anps-framework/portfolio_meta.php:47 ../anps-framework/team_meta.php:48 ..
+#: /anps-framework/widgets/AnpsDownload.php:80 ../anps-
+#: framework/widgets/AnpsSocial.php:117 ../anps-framework/widgets/AnpsText.php:79
+msgid "Select icon"
+msgstr ""
+
+#: ../anps-framework/shortcodes_functions.php:184
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: ../anps-framework/shortcodes_functions.php:668 ../anps-
+#: framework/shortcodes_functions.php:860
+msgid "Read more"
+msgstr ""
+
+#: ../anps-framework/shortcodes_functions.php:823 ../anps-
+#: framework/shortcodes_functions.php:1016
+msgid "All projects"
+msgstr ""
+
+#: ../anps-framework/shortcodes_functions.php:951
+msgid "comments"
+msgstr ""
+
+#: ../anps-framework/shortcodes_functions.php:955 ../anps-
+#: framework/shortcodes_functions.php:1054 ../templates/content-blog-col-md-12.
+#: php:17 ../templates/content-blog-col-md-3.php:17 ../templates/content-blog-col-
+#: md-4.php:17 ../templates/content-blog-col-md-6.php:17 ../templates/content-
+#: news-type-2.php:14
+msgid "Read More"
+msgstr ""
+
+#: ../anps-framework/sidebar_generator.php:56
+msgid "Sidebar already exists, please use a different name."
+msgstr ""
+
+#: ../anps-framework/sidebar_generator.php:79
+msgid "Sidebar does not exist."
+msgstr ""
+
+#: ../anps-framework/sidebar_generator.php:100
+msgid "Sidebar Generator"
+msgstr ""
+
+#: ../anps-framework/sidebar_generator.php:102 ../anps-
+#: framework/sidebar_generator.php:107 ../anps-framework/sidebar_generator.php:122
+msgid "Remove"
+msgstr ""
+
+#: ../anps-framework/sidebar_generator.php:102 ../anps-
+#: framework/sidebar_generator.php:130
+msgid "No sidebars found"
+msgstr ""
+
+#: ../anps-framework/sidebar_generator.php:102
+msgid "Sidebar Name:"
+msgstr ""
+
+#: ../anps-framework/sidebar_generator.php:106
+msgid "Slug"
+msgstr ""
+
+#: ../anps-framework/sidebar_generator.php:138
+msgid "Add a sidebar"
+msgstr ""
+
+#: ../anps-framework/sidebar_generator.php:139
+msgid "Add Sidebar"
+msgstr ""
+
+#: ../anps-framework/sidebar_generator.php:193
+msgid ""
+"Select the sidebar you wish to display. If no value is selected, then the "
+"global sidebar will be used. Any other value will overwrite the global "
+"option. Use \"None\" to remove the global sidebar for on a specific post/page."
+msgstr ""
+
+#: ../anps-framework/sidebar_generator.php:202
+msgid "Left sidebar"
+msgstr ""
+
+#: ../anps-framework/sidebar_generator.php:206 ../anps-
+#: framework/sidebar_generator.php:224
+msgid "None"
+msgstr ""
+
+#: ../anps-framework/sidebar_generator.php:220
+msgid "Right sidebar"
+msgstr ""
+
+#: ../anps-framework/team_meta.php:7
+msgid "Social accounts"
+msgstr ""
+
+#: ../anps-framework/team_meta.php:11
+msgid "Team subtitle"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:11 ../anps-framework/vc_shortcodes_map.
+#: php:59
+msgid "Table heading"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:13 ../anps-framework/vc_shortcodes_map.
+#: php:59
+msgid "Table cell"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:48 ../anps-framework/vc_shortcodes_map.
+#: php:50
+msgid "Remove row"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:56
+msgid "Remove cell"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:65
+msgid "Add cells"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:68
+msgid "Add row"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:183 ../anps-
+#: framework/vc_shortcodes_map.php:198
+msgid "All"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:234
+msgid "Anps button styles"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:236
+msgid "Anps button style"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:239
+msgid "Normal"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:240
+msgid "Gradient"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:241
+msgid "Dark"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:242
+msgid "Light"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:243 ../anps-
+#: framework/widgets/AnpsSocial.php:65
+msgid "Minimal"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:250
+msgid "Styling can be defined in theme options."
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:255
+msgid "Button shadow"
+msgstr ""
+
+#: ../anps-framework/vc_shortcodes_map.php:257
+msgid "Add shadow?"
+msgstr ""
+
+#: ../anps-framework/classes/AnpsFramework.php:438
+msgid "Insert demo content"
+msgstr ""
+
+#: ../anps-framework/classes/AnpsFramework.php:441
+msgid "launch demo preview"
+msgstr ""
+
+#: ../anps-framework/classes/AnpsFramework.php:511 ../anps-
+#: framework/views/theme_upgrade_view.php:36
+msgid "Save all changes"
+msgstr ""
+
+#: ../anps-framework/classes/theme-update/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../anps-framework/classes/theme-update/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../anps-framework/classes/theme-update/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../anps-framework/classes/theme-update/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:23
+msgid "Theme Options"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:28
+msgid "Color management"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:29
+msgid "Typography"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:30 ../anps-
+#: framework/views/update_google_font_view.php:11 ../anps-
+#: framework/views/update_google_font_view.php:14
+msgid "Update google fonts"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:31
+msgid "Custom fonts"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:32 ../anps-
+#: framework/views/custom_css_view.php:13 ../anps-framework/views/custom_css_view.
+#: php:15
+msgid "Custom css"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:33
+msgid "Page layout"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:34 ../anps-
+#: framework/views/options_page_setup_view.php:23
+msgid "Page setup"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:37
+msgid "Footer options"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:38
+msgid "Woocommerce"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:39
+msgid "Logos & Media"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:40
+msgid "Dummy Content"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:41 ../anps-
+#: framework/views/theme_upgrade_view.php:17
+msgid "Theme upgrade"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:42
+msgid "Import/Export"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:43
+msgid "Import/Export widgets"
+msgstr ""
+
+#: ../anps-framework/views/admin_view.php:44 ../anps-
+#: framework/views/system_req_view.php:26
+msgid "System requirements"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:19
+msgid "Predefined color Scheme"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:20
+msgid "Choose a predefined color scheme"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:21
+msgid ""
+"Selecting one of this schemes will import the predefined colors below, which "
+"you can then edit as you like. Click \"save\" to save the color selection."
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:56
+msgid "Main Theme Colors"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:57
+msgid "Set your custom colors"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:58
+msgid ""
+"Not satisfied with the premade color schemes? Here you can set your custom "
+"colors."
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:62 ../anps-
+#: framework/views/header_view.php:84 ../anps-framework/views/header_view.php:172 
+#: ../anps-framework/views/header_view.php:197 ../anps-
+#: framework/widgets/AnpsContactNumber.php:59
+msgid "Text color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:66
+msgid "Primary color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:70
+msgid "Hovers color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:74
+msgid "Menu text color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:79
+msgid "Menu Background color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:83
+msgid "Headings color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:87
+msgid "Top bar text color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:91
+msgid "Top bar background color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:95
+msgid "Footer background color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:99
+msgid "Footer text color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:103
+msgid "Footer heading text color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:107
+msgid "Copyright footer text color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:111
+msgid "Page header background color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:115
+msgid "Page title color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:119
+msgid "Submenu background color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:123
+msgid "Submenu text color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:126
+msgid "Submenu text hover color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:129
+msgid "Submenu divider color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:133
+msgid "Text on top of primary color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:137
+msgid "Shopping cart item number background color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:141
+msgid "Shoping cart item number text color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:145
+msgid "Important background color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:149
+msgid "Important text color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:152
+msgid "Heading divider color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:159
+msgid "Button styles"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:165
+msgid "Normal button"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:169
+msgid "Normal button background"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:172
+msgid "Normal button color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:175 ../anps-
+#: framework/views/color_management_view.php:195 ../anps-
+#: framework/views/color_management_view.php:215 ../anps-
+#: framework/views/color_management_view.php:235
+msgid "Hover background"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:178
+msgid "Normal button hover color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:185
+msgid "Button with gradient"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:189
+msgid "Gradient button background"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:192
+msgid "Gradient button color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:198
+msgid "Gradient button hover color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:205
+msgid "Dark button"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:209
+msgid "Dark button background"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:212
+msgid "Dark button color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:218
+msgid "Dark button hover color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:225
+msgid "Light button"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:229
+msgid "Light button background"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:232
+msgid "Light button color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:238
+msgid "Light button hover color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:245
+msgid "Button minimal"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:249
+msgid "button color"
+msgstr ""
+
+#: ../anps-framework/views/color_management_view.php:252
+msgid "button hover color"
+msgstr ""
+
+#: ../anps-framework/views/dummy_view.php:13
+msgid "Insert dummy content: posts, pages, categories"
+msgstr ""
+
+#: ../anps-framework/views/dummy_view.php:14
+msgid ""
+"Importing demo content is the fastest way to get you started. Please install "
+"all plugins required by the theme before importing content. If you already "
+"have some content on your site, make a backup just in case."
+msgstr ""
+
+#: ../anps-framework/views/dummy_view.php:18
+msgid ""
+"One or more issues with server found! Please take a look at the System "
+"Requirements tab."
+msgstr ""
+
+#: ../anps-framework/views/dummy_view.php:28
+msgid "Demo 1"
+msgstr ""
+
+#: ../anps-framework/views/dummy_view.php:33
+msgid "Demo 2"
+msgstr ""
+
+#: ../anps-framework/views/dummy_view.php:38
+msgid "Demo 3"
+msgstr ""
+
+#: ../anps-framework/views/dummy_view.php:43
+msgid "Demo 4"
+msgstr ""
+
+#: ../anps-framework/views/dummy_view.php:48
+msgid "Demo 5"
+msgstr ""
+
+#: ../anps-framework/views/dummy_view.php:53
+msgid "Demo 6"
+msgstr ""
+
+#: ../anps-framework/views/dummy_view.php:58
+msgid "Demo 7"
+msgstr ""
+
+#: ../anps-framework/views/footer_view.php:19
+msgid "Footer"
+msgstr ""
+
+#: ../anps-framework/views/footer_view.php:26
+msgid "Footer style"
+msgstr ""
+
+#: ../anps-framework/views/footer_view.php:28 ../anps-framework/views/footer_view.
+#: php:44
+msgid "*** Select ***"
+msgstr ""
+
+#: ../anps-framework/views/footer_view.php:42
+msgid "Copyright footer"
+msgstr ""
+
+#: ../anps-framework/views/footer_view.php:58
+msgid "Desktop style"
+msgstr ""
+
+#: ../anps-framework/views/footer_view.php:67
+msgid "Mobile layout"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:23
+msgid "Menu Layout options"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:89 ../anps-framework/views/header_view.
+#: php:202 ../anps-framework/views/options_page_layout_view.php:92 ../anps-
+#: framework/widgets/AnpsContactNumber.php:71 ../anps-
+#: framework/widgets/AnpsDownload.php:90
+msgid "Background color"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:94 ../anps-framework/views/header_view.
+#: php:177 ../anps-framework/views/header_view.php:207
+msgid "Text hover color"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:99
+msgid "Above menu background color"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:104
+msgid "Logo background color"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:109 ../anps-
+#: framework/views/header_view.php:167
+msgid "Menu centered"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:119 ../anps-
+#: framework/views/header_view.php:162
+msgid "Transparent header"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:123
+msgid "Header height"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:123
+msgid "Accepts values between 70 and 280"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:128
+msgid "Set this settings as global"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:135
+msgid "Menu button"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:140
+msgid "Menu button text"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:145
+msgid "Menu button URL"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:212
+msgid "Background image"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:231
+msgid "Display above menu bar"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:236
+msgid "Sticky menu"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:241
+msgid "Display search on mobile and tablets?"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:246
+msgid "Display search icon in menu (desktop)?"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:251
+msgid "Enable menu walker (mega menu)"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:256
+msgid "Display background color behind logo"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:261
+msgid "Heading Backgrounds"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:262
+msgid "Select Your Heading Backgrounds"
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:263
+msgid ""
+"The selected bacground will apply globaly over all pages. On each page you "
+"can upload its own background which will override the current\n"
+"                setting in this panel for that page alone."
+msgstr ""
+
+#: ../anps-framework/views/header_view.php:274
+msgid "Search page content background"
+msgstr ""
+
+#: ../anps-framework/views/import_export_view.php:13 ../anps-
+#: framework/views/import_export_view.php:16 ../anps-
+#: framework/views/import_export_widgets_view.php:23
+msgid "Export"
+msgstr ""
+
+#: ../anps-framework/views/import_export_view.php:17
+msgid "Copy to clipboard"
+msgstr ""
+
+#: ../anps-framework/views/import_export_view.php:23 ../anps-
+#: framework/views/import_export_view.php:27 ../anps-
+#: framework/views/import_export_widgets_view.php:32
+msgid "Import"
+msgstr ""
+
+#: ../anps-framework/views/import_export_widgets_view.php:21
+msgid "Export widgets"
+msgstr ""
+
+#: ../anps-framework/views/import_export_widgets_view.php:29
+msgid "Import widgets"
+msgstr ""
+
+#: ../anps-framework/views/options_media_view.php:19
+msgid "Favicon and logo:"
+msgstr ""
+
+#: ../anps-framework/views/options_media_view.php:20
+msgid ""
+"If you would like to use your logo and favicon, upload them to your theme "
+"here."
+msgstr ""
+
+#: ../anps-framework/views/options_media_view.php:30
+msgid "Logo height"
+msgstr ""
+
+#: ../anps-framework/views/options_media_view.php:37
+msgid "Front page logo"
+msgstr ""
+
+#: ../anps-framework/views/options_media_view.php:42
+msgid "Front page logo height"
+msgstr ""
+
+#: ../anps-framework/views/options_media_view.php:54
+msgid "Sticky logo height"
+msgstr ""
+
+#: ../anps-framework/views/options_media_view.php:63
+msgid "Transparent Sticky logo"
+msgstr ""
+
+#: ../anps-framework/views/options_media_view.php:68
+msgid "Transparent Sticky logo height"
+msgstr ""
+
+#: ../anps-framework/views/options_media_view.php:80
+msgid "Favicon"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:20
+msgid "Page layout:"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:34
+msgid "Boxed version"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:41
+msgid "Choose a pattern:"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:67
+msgid "Custom background type"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:87
+msgid "Custom background image/pattern"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:107
+msgid "Display shadow on certain elements"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:114
+msgid "Page Sidebars"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:115
+msgid ""
+"This will change the default sidebar value on all pages. It can be changed "
+"on each page individually."
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:120 ../anps-
+#: framework/views/options_page_layout_view.php:136
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:125 ../anps-
+#: framework/views/options_page_layout_view.php:141
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:130
+msgid "Post Sidebars"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:131
+msgid ""
+"This will change the default sidebar value on all posts. It can be changed "
+"on each post individually."
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:148
+msgid "Heading"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:152
+msgid "Enable page title and background"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:156
+msgid "Enable Bredcrumbs"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:164
+msgid "Page comments"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:167
+msgid "Enable page comments"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:173
+msgid "Blog layout"
+msgstr ""
+
+#: ../anps-framework/views/options_page_layout_view.php:176
+msgid ""
+"This option defines default display of blog, archive pages, categories and "
+"tags."
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:14
+msgid "Home page"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:17
+msgid "Slider shortcode"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:27
+msgid "Excerpt length"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:31
+msgid "404 error page"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:35
+msgid "Portfolio"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:40
+msgid "Portfolio slug"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:46
+msgid "Style 1"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:47
+msgid "Style 2"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:48
+msgid "Style 3"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:50
+msgid "Portfolio single style"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:56
+msgid "Post meta on blog / categories / tag / archive pages"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:60 ../anps-
+#: framework/views/options_page_setup_view.php:79
+msgid "Comments"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:61 ../anps-
+#: framework/views/options_page_setup_view.php:80 ../templates/content-single.php:
+#: 18
+msgid "Categories"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:62 ../anps-
+#: framework/views/options_page_setup_view.php:81
+msgid "Author"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:63 ../anps-
+#: framework/views/options_page_setup_view.php:82 ../woocommerce-
+#: legacy/myaccount/my-orders.php:26
+msgid "Date"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:75
+msgid "Post meta on single post"
+msgstr ""
+
+#: ../anps-framework/views/options_page_setup_view.php:83 ../templates/content-
+#: single.php:24
+msgid "Tags"
+msgstr ""
+
+#: ../anps-framework/views/system_req_view.php:3
+msgid "Max execution time"
+msgstr ""
+
+#: ../anps-framework/views/system_req_view.php:4
+msgid "Memory limit"
+msgstr ""
+
+#: ../anps-framework/views/system_req_view.php:5
+msgid "Upload max filesize"
+msgstr ""
+
+#: ../anps-framework/views/system_req_view.php:6
+msgid "Max post size"
+msgstr ""
+
+#: ../anps-framework/views/system_req_view.php:28
+msgid ""
+"If your values do not match the recommended values, you could experience "
+"issues with your theme. In this case do contact your hosting provider for "
+"assistance."
+msgstr ""
+
+#: ../anps-framework/views/system_req_view.php:35
+msgid "Currently"
+msgstr ""
+
+#: ../anps-framework/views/theme_upgrade_view.php:20 ../anps-
+#: framework/views/theme_upgrade_view.php:69
+msgid ""
+"Please backup all your files before upgrading (in case you did any custom "
+"work). The upgrade will overide all theme files, any custom changes will be "
+"lost."
+msgstr ""
+
+#: ../anps-framework/views/theme_upgrade_view.php:25
+msgid "Themeforest username"
+msgstr ""
+
+#: ../anps-framework/views/theme_upgrade_view.php:30
+msgid "Themeforest API key"
+msgstr ""
+
+#: ../anps-framework/views/theme_upgrade_view.php:42
+msgid ""
+"To get your API key, log in to your themeforest account and click settings -"
+"> API Keys. Please see the screnshot below. If you do not have any generated "
+"API keys, please generate one."
+msgstr ""
+
+#: ../anps-framework/views/theme_upgrade_view.php:53
+msgid "Please enter username and api key."
+msgstr ""
+
+#: ../anps-framework/views/theme_upgrade_view.php:60
+msgid ""
+"You are using and outdated version of the theme, please upgrade it to get "
+"the latest features and ensure safety!"
+msgstr ""
+
+#: ../anps-framework/views/theme_upgrade_view.php:73
+msgid ""
+"I want to upgrade the theme, I understand that this will overwrite all theme "
+"files."
+msgstr ""
+
+#: ../anps-framework/views/theme_upgrade_view.php:73
+msgid "Upgrade theme"
+msgstr ""
+
+#: ../anps-framework/views/theme_upgrade_view.php:80
+msgid "You are using the latest version of Construction theme."
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:17
+msgid "Font family"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:18
+msgid "Custom font styles"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:19
+msgid "If subsets are not active please update google fonts"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:19
+msgid "here"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:24
+msgid "Font type 1"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:64
+msgid "Font type 2"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:104
+msgid "Navigation font type"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:144
+msgid "Font sizes"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:147
+msgid "Body font size"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:150
+msgid "Menu font size"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:153
+msgid "Submenu font size"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:156
+msgid "Content heading 1 font size"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:159
+msgid "Content heading 2 font size"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:162
+msgid "Content heading 3 font size"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:165
+msgid "Content heading 4 font size"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:168
+msgid "Content heading 5 font size"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:171
+msgid "Page heading 1 font size"
+msgstr ""
+
+#: ../anps-framework/views/typography_view.php:174
+msgid "Single blog page heading 1 font size"
+msgstr ""
+
+#: ../anps-framework/views/update_custom_font_view.php:11
+msgid "Upload custom fonts"
+msgstr ""
+
+#: ../anps-framework/views/update_custom_font_view.php:12
+msgid ""
+"To maximize your customization you can upload your own typography. Simply "
+"upload your font from your computer."
+msgstr ""
+
+#: ../anps-framework/views/update_google_font_view.php:12
+msgid ""
+"As we do not update google fonts automatically, you can update the google "
+"fonts with clicking the below button."
+msgstr ""
+
+#: ../anps-framework/views/woocommerce_view.php:12
+msgid "Settings"
+msgstr ""
+
+#: ../anps-framework/views/woocommerce_view.php:17
+msgid "Never display"
+msgstr ""
+
+#: ../anps-framework/views/woocommerce_view.php:18
+msgid "only on Woo pages"
+msgstr ""
+
+#: ../anps-framework/views/woocommerce_view.php:19
+msgid "Display everywhere"
+msgstr ""
+
+#: ../anps-framework/views/woocommerce_view.php:21
+msgid "Display shopping cart icon in header?"
+msgstr ""
+
+#: ../anps-framework/views/woocommerce_view.php:27
+msgid "Layout"
+msgstr ""
+
+#: ../anps-framework/views/woocommerce_view.php:32
+msgid "4 columns"
+msgstr ""
+
+#: ../anps-framework/views/woocommerce_view.php:33
+msgid "3 columns"
+msgstr ""
+
+#: ../anps-framework/views/woocommerce_view.php:35
+msgid "How many products in column?"
+msgstr ""
+
+#: ../anps-framework/views/woocommerce_view.php:39
+msgid "Products per page"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsContactNumber.php:5
+msgid "Display your contact number."
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsContactNumber.php:47
+msgid "Text"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsContactNumber.php:53
+msgid "Number"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsContactNumber.php:65
+msgid "Number color"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsDownload.php:7 ../anps-
+#: framework/widgets/AnpsImage.php:7
+msgid "Choose a image to show on page"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsDownload.php:53 ../anps-
+#: framework/widgets/AnpsImage.php:21 ../anps-framework/widgets/AnpsOpeningTime.
+#: php:16 ../anps-framework/widgets/AnpsSocial.php:56 ../anps-
+#: framework/widgets/AnpsText.php:48
+msgid "Title"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsDownload.php:58
+msgid "File title"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsDownload.php:64
+msgid "File"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsDownload.php:66
+msgid "Select a file"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsDownload.php:76
+msgid "Icon"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsDownload.php:85
+msgid "Icon color"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsDownload.php:95
+msgid "File external"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsMenuWidget.php:23
+msgid "Double column menu display. Only one level menu supported"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsMenuWidget.php:26
+msgid "AnpsThemes - Menu"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsMenuWidget.php:70
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsMenuWidget.php:76
+msgid "Title:"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsMenuWidget.php:82
+msgid "Select Menu:"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsMiniCart.php:6
+msgid "Woocommerce mini cart"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsOpeningTime.php:4
+msgid "Enter opening time."
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsOpeningTime.php:49
+msgid "Day"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsOpeningTime.php:55
+msgid "Time"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsOpeningTime.php:61
+msgid "Exposed"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsRecentNews.php:21
+msgid "Title for recent news"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsRecentNews.php:23
+msgid "Number of articles to show"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsRecentProjects.php:21
+msgid "Title for recent projects"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsRecentProjects.php:24
+msgid "Number of projects to show"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsSocial.php:5
+msgid "Enter social icons to show on page"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsSocial.php:62
+msgid "Style"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsSocial.php:66
+msgid "Border"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsSocial.php:67
+msgid "Transparent border"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsSocial.php:73
+msgid "Open links as"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsSpacing.php:7
+msgid "Add extra white space"
+msgstr ""
+
+#: ../anps-framework/widgets/AnpsText.php:7
+msgid ""
+"Enter text and/or icon to show on page. Can only be used in the Top bar "
+"widget areas."
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:33
+msgid "Sidebar"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:35
+msgid "The primary widget area"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:42
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:44
+msgid "Secondary widget area"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:52
+msgid "Top bar left"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:54 ../anps-framework/widgets/widgets.php:
+#: 63
+msgid ""
+"Top bar supports Text, Search, Custom menu, Text and icon, Social icons and "
+"WPML language selector widgets."
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:61
+msgid "Top bar right"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:71
+msgid "Above navigation bar"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:73
+msgid ""
+"Top bar is located above the main navigation. It supports Text, Search, "
+"Custom menu, Text and icon, Social icons and WPML language selector widgets."
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:82
+msgid "Vertical menu bottom widget"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:84
+msgid ""
+"This widget area is only visible on large devices and only if the vertical "
+"menu is active."
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:95 ../anps-framework/widgets/widgets.php:
+#: 97 ../anps-framework/widgets/widgets.php:114 ../anps-framework/widgets/widgets.
+#: php:116 ../anps-framework/widgets/widgets.php:142 ../anps-
+#: framework/widgets/widgets.php:144
+msgid "Footer 1"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:104 ../anps-framework/widgets/widgets.
+#: php:106 ../anps-framework/widgets/widgets.php:123 ../anps-
+#: framework/widgets/widgets.php:125 ../anps-framework/widgets/widgets.php:151 ..
+#: /anps-framework/widgets/widgets.php:153
+msgid "Footer 2"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:132 ../anps-framework/widgets/widgets.
+#: php:134 ../anps-framework/widgets/widgets.php:160 ../anps-
+#: framework/widgets/widgets.php:162
+msgid "Footer 3"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:169 ../anps-framework/widgets/widgets.
+#: php:171
+msgid "Footer 4"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:182 ../anps-framework/widgets/widgets.
+#: php:184 ../anps-framework/widgets/widgets.php:192 ../anps-
+#: framework/widgets/widgets.php:194
+msgid "Copyright footer 1"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:201 ../anps-framework/widgets/widgets.
+#: php:203
+msgid "Copyright footer 2"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:212
+msgid "Large above menu"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:214
+msgid "Large above menu."
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:222
+msgid "Left services sidebar"
+msgstr ""
+
+#: ../anps-framework/widgets/widgets.php:224
+msgid "Sidebar on services page."
+msgstr ""
+
+#: ../templates/content-single.php:35
+msgid "Written by"
+msgstr ""
+
+#: ../templates/template-breadcrumbs.php:18
+msgid "Home"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:32 ../woocommerce-legacy/single-
+#: product-reviews.php:32
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product-reviews.php:34 ../woocommerce-legacy/single-
+#: product-reviews.php:34
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:55 ../woocommerce-legacy/single-
+#: product-reviews.php:55
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:64 ../woocommerce-legacy/single-
+#: product-reviews.php:64
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:64 ../woocommerce-legacy/single-
+#: product-reviews.php:64
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:70 ../woocommerce-legacy/single-
+#: product-reviews.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:82 ../woocommerce-legacy/single-
+#: product-reviews.php:82
+msgid "Submit"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:88 ../woocommerce-legacy/single-
+#: product-reviews.php:88
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:92 ../woocommerce-legacy/single-
+#: product-reviews.php:92
+msgid "Your Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:93 ../woocommerce-legacy/single-
+#: product-reviews.php:93
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:94 ../woocommerce-legacy/single-
+#: product-reviews.php:94
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:95 ../woocommerce-legacy/single-
+#: product-reviews.php:95
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:96 ../woocommerce-legacy/single-
+#: product-reviews.php:96
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:97 ../woocommerce-legacy/single-
+#: product-reviews.php:97
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:98 ../woocommerce-legacy/single-
+#: product-reviews.php:98
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:102 ../woocommerce-legacy/single-
+#: product-reviews.php:102
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:111 ../woocommerce-legacy/single-
+#: product-reviews.php:111
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:27 ../woocommerce-legacy/cart/cart-empty.
+#: php:27
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:34 ../woocommerce-legacy/cart/cart-empty.
+#: php:34
+msgid "Return To Shop"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:23 ../woocommerce/cart/mini-cart.php:89 ..
+#: /woocommerce/checkout/review-order.php:50 ../woocommerce-legacy/cart/cart-
+#: totals.php:23 ../woocommerce-legacy/cart/mini-cart.php:89 ../woocommerce-
+#: legacy/checkout/review-order.php:50
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:45 ../woocommerce-legacy/cart/cart-totals.
+#: php:45
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:77 ../woocommerce/cart/cart.php:34 ..
+#: /woocommerce/checkout/review-order.php:18 ../woocommerce/checkout/review-order.
+#: php:97 ../woocommerce/order/order-details.php:34 ../woocommerce-
+#: legacy/cart/cart-totals.php:77 ../woocommerce-legacy/cart/cart.php:34 ..
+#: /woocommerce-legacy/checkout/review-order.php:18 ../woocommerce-
+#: legacy/checkout/review-order.php:97 ../woocommerce-legacy/myaccount/my-orders.
+#: php:28 ../woocommerce-legacy/order/order-details.php:33
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:89 ../woocommerce-legacy/cart/cart-totals.
+#: php:89
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:92 ../woocommerce-legacy/cart/cart-totals.
+#: php:92
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:31 ../woocommerce/checkout/review-order.php:17 ..
+#: /woocommerce/order/order-details.php:33 ../woocommerce-legacy/cart/cart.php:31 
+#: ../woocommerce-legacy/checkout/review-order.php:17 ../woocommerce-
+#: legacy/order/order-details.php:32
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:32 ../woocommerce-legacy/cart/cart.php:32
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:33 ../woocommerce-legacy/cart/cart.php:33
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:54 ../woocommerce/cart/mini-cart.php:48 ..
+#: /woocommerce-legacy/cart/cart.php:54 ../woocommerce-legacy/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:98 ../woocommerce-legacy/cart/cart.php:98
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:150 ../woocommerce/checkout/form-coupon.php:25 ..
+#: /woocommerce-legacy/cart/cart.php:150 ../woocommerce-legacy/checkout/form-
+#: coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:151 ../woocommerce/checkout/form-coupon.php:29 ..
+#: /woocommerce-legacy/cart/cart.php:151 ../woocommerce-legacy/checkout/form-
+#: coupon.php:29
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:159 ../woocommerce-legacy/cart/cart.php:159
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:40 ../woocommerce-legacy/cart/cross-sells.
+#: php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:81 ../woocommerce-legacy/cart/mini-cart.php:81
+msgid "No products in the cart."
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:94 ../woocommerce-legacy/cart/mini-cart.php:94
+msgid "View Cart"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:95 ../woocommerce-legacy/cart/mini-cart.php:95
+msgid "Checkout"
+msgstr ""
+
+#: ../woocommerce/cart/proceed-to-checkout-button.php:16 ..
+#: /woocommerce/cart/proceed-to-checkout-button.php:16 ../woocommerce-
+#: legacy/cart/proceed-to-checkout-button.php:16 ../woocommerce-
+#: legacy/cart/proceed-to-checkout-button.php:16
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:24 ../woocommerce-
+#: legacy/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:30 ../woocommerce-
+#: legacy/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:47 ../woocommerce/cart/shipping-
+#: calculator.php:53 ../woocommerce/cart/shipping-calculator.php:65 ..
+#: /woocommerce-legacy/cart/shipping-calculator.php:47 ../woocommerce-
+#: legacy/cart/shipping-calculator.php:53 ../woocommerce-legacy/cart/shipping-
+#: calculator.php:65
+msgid "State / county"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:54 ../woocommerce-
+#: legacy/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:74 ../woocommerce-
+#: legacy/cart/shipping-calculator.php:74
+msgid "City"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:82 ../woocommerce-
+#: legacy/cart/shipping-calculator.php:82
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:87 ../woocommerce-
+#: legacy/cart/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:19 ../woocommerce-
+#: legacy/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:23 ../woocommerce-
+#: legacy/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:48 ../woocommerce-
+#: legacy/checkout/form-billing.php:48
+msgid "Create an account?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:59 ../woocommerce-
+#: legacy/checkout/form-billing.php:59
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:20 ../woocommerce-
+#: legacy/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:45 ../woocommerce-
+#: legacy/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:18 ../woocommerce-legacy/checkout/form-
+#: coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:18 ../woocommerce-legacy/checkout/form-
+#: coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:32 ../woocommerce-
+#: legacy/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:64 ../woocommerce/single-
+#: product/tabs/additional-information.php:24 ../woocommerce-legacy/checkout/form-
+#: shipping.php:64 ../woocommerce-legacy/single-product/tabs/additional-
+#: information.php:24
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:34 ../woocommerce-legacy/checkout/payment.
+#: php:34
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:34 ../woocommerce-legacy/checkout/payment.
+#: php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:41 ../woocommerce-legacy/checkout/payment.
+#: php:41
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:42 ../woocommerce-legacy/checkout/payment.
+#: php:42
+msgid "Update totals"
+msgstr ""
+
+#: ../woocommerce/global/quantity-input.php:24 ../woocommerce-
+#: legacy/global/quantity-input.php:25
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:31 ../woocommerce-legacy/loop/result-
+#: count.php:31
+msgid "Showing the single result"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:33 ../woocommerce-legacy/loop/result-
+#: count.php:33
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:35 ../woocommerce-legacy/loop/result-
+#: count.php:35
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:30 ../woocommerce-
+#: legacy/myaccount/form-edit-account.php:30
+msgid "First name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:34 ../woocommerce-
+#: legacy/myaccount/form-edit-account.php:34
+msgid "Last name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:40 ..
+#: /woocommerce/myaccount/form-login.php:92 ../woocommerce-legacy/myaccount/form-
+#: edit-account.php:40 ../woocommerce-legacy/myaccount/form-login.php:91
+msgid "Email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:47 ../woocommerce-
+#: legacy/myaccount/form-edit-account.php:47
+msgid "Password Change"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:50 ../woocommerce-
+#: legacy/myaccount/form-edit-account.php:50
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:54 ../woocommerce-
+#: legacy/myaccount/form-edit-account.php:54
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:58 ../woocommerce-
+#: legacy/myaccount/form-edit-account.php:58
+msgid "Confirm New Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:68 ../woocommerce-
+#: legacy/myaccount/form-edit-account.php:70
+msgid "Save changes"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:38 ../woocommerce/myaccount/form-login.
+#: php:57 ../woocommerce-legacy/myaccount/form-login.php:37 ../woocommerce-
+#: legacy/myaccount/form-login.php:56
+msgid "Login"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:45 ../woocommerce-
+#: legacy/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:49 ../woocommerce/myaccount/form-login.
+#: php:99 ../woocommerce-legacy/myaccount/form-login.php:48 ../woocommerce-
+#: legacy/myaccount/form-login.php:98
+msgid "Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:59 ../woocommerce-
+#: legacy/myaccount/form-login.php:58
+msgid "Remember me"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:63 ../woocommerce-
+#: legacy/myaccount/form-login.php:62
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:76 ../woocommerce/myaccount/form-login.
+#: php:113 ../woocommerce-legacy/myaccount/form-login.php:75 ../woocommerce-
+#: legacy/myaccount/form-login.php:112
+msgid "Register"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:85 ../woocommerce-
+#: legacy/myaccount/form-login.php:84
+msgid "Username"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:106 ../woocommerce-
+#: legacy/myaccount/form-login.php:105
+msgid "Anti-spam"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:27 ../woocommerce/myaccount/my-address.
+#: php:32 ../woocommerce/order/order-details-customer.php:51 ../woocommerce-
+#: legacy/myaccount/form-edit-address.php:16 ../woocommerce-legacy/myaccount/my-
+#: address.php:19 ../woocommerce-legacy/myaccount/my-address.php:25 ..
+#: /woocommerce-legacy/order/order-details-customer.php:51
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:28 ../woocommerce/order/order-details-
+#: customer.php:62 ../woocommerce-legacy/myaccount/form-edit-address.php:16 ..
+#: /woocommerce-legacy/myaccount/my-address.php:20 ../woocommerce-
+#: legacy/order/order-details-customer.php:62
+msgid "Shipping Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:41 ../woocommerce-legacy/myaccount/my-
+#: address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:52 ../woocommerce-legacy/myaccount/my-
+#: address.php:46
+msgid "Edit"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:70 ../woocommerce-legacy/myaccount/my-
+#: address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/orders.php:51 ../woocommerce-legacy/myaccount/my-
+#: orders.php:68
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: ../woocommerce/myaccount/orders.php:61 ../woocommerce-legacy/myaccount/my-
+#: orders.php:78
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/myaccount/orders.php:68 ../woocommerce-legacy/myaccount/my-
+#: orders.php:85
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/myaccount/orders.php:72 ../woocommerce-legacy/myaccount/my-
+#: orders.php:89
+msgid "View"
+msgstr ""
+
+#: ../woocommerce/myaccount/orders.php:76 ../woocommerce-legacy/myaccount/my-
+#: orders.php:93
+msgid "Cancel"
+msgstr ""
+
+#: ../woocommerce/myaccount/orders.php:120
+msgid "Go Shop"
+msgstr ""
+
+#: ../woocommerce/myaccount/orders.php:122
+msgid "No order has been made yet."
+msgstr ""
+
+#: ../woocommerce/order/order-again.php:24 ../woocommerce-legacy/order/order-
+#: again.php:24
+msgid "Order Again"
+msgstr ""
+
+#: ../woocommerce/order/order-details-customer.php:14 ../woocommerce-
+#: legacy/order/order-details-customer.php:14
+msgid "Customer Details"
+msgstr ""
+
+#: ../woocommerce/order/order-details-customer.php:20 ../woocommerce-
+#: legacy/order/order-details-customer.php:20
+msgid "Note:"
+msgstr ""
+
+#: ../woocommerce/order/order-details-customer.php:27 ../woocommerce-
+#: legacy/order/order-details-customer.php:27
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/order/order-details-customer.php:34 ../woocommerce-
+#: legacy/order/order-details-customer.php:34
+msgid "Telephone:"
+msgstr ""
+
+#: ../woocommerce/order/order-details-customer.php:54 ../woocommerce/order/order-
+#: details-customer.php:65 ../woocommerce-legacy/order/order-details-customer.php:
+#: 54 ../woocommerce-legacy/order/order-details-customer.php:65
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:28 ../woocommerce-legacy/order/order-
+#: details.php:27
+msgid "Order Details"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:38 ../woocommerce-
+#: legacy/single-product/product-attributes.php:38
+msgid "Weight"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:45 ../woocommerce-
+#: legacy/single-product/product-attributes.php:45
+msgid "Dimensions"
+msgstr ""
+
+#: ../woocommerce/single-product/product-image.php:43 ../woocommerce-
+#: legacy/single-product/product-image.php:43
+msgid "Placeholder"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:27 ../woocommerce-legacy/single-
+#: product/rating.php:27
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/rating.php:28 ../woocommerce-legacy/single-
+#: product/rating.php:28
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:30 ../woocommerce-legacy/single-
+#: product/rating.php:30
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:31 ../woocommerce-legacy/single-
+#: product/rating.php:31
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/related.php:50 ../woocommerce-legacy/single-
+#: product/related.php:50
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/review-old.php:42 ../woocommerce-legacy/single-
+#: product/review.php:42
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/review-old.php:51 ../woocommerce-legacy/single-
+#: product/review.php:51
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/review-old.php:57 ../woocommerce-legacy/single-
+#: product/review.php:57
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review-old.php:58 ../woocommerce-legacy/single-
+#: product/review.php:58
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:51 ../woocommerce-legacy/single-
+#: product/up-sells.php:51
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:31 ../woocommerce-
+#: legacy/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:45 ../woocommerce-
+#: legacy/single-product/add-to-cart/variable.php:45
+msgid "Clear"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:24 ../woocommerce-
+#: legacy/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr ""
+
+#: ../woocommerce-legacy/myaccount/form-edit-address.php:45
+msgid "Save Address"
+msgstr ""
+
+#: ../woocommerce-legacy/myaccount/form-lost-password.php:30
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../woocommerce-legacy/myaccount/form-lost-password.php:32
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce-legacy/myaccount/form-lost-password.php:36
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../woocommerce-legacy/myaccount/form-lost-password.php:39
+msgid "New password"
+msgstr ""
+
+#: ../woocommerce-legacy/myaccount/form-lost-password.php:43
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../woocommerce-legacy/myaccount/form-lost-password.php:58
+msgid "Reset Password"
+msgstr ""
+
+#: ../woocommerce-legacy/myaccount/form-lost-password.php:58
+msgid "Save"
+msgstr ""
+
+#: ../woocommerce-legacy/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../woocommerce-legacy/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../woocommerce-legacy/myaccount/my-orders.php:25
+msgid "Order"
+msgstr ""
+
+#: ../woocommerce-legacy/myaccount/my-orders.php:42
+msgid "Recent Orders"
+msgstr ""
+
+#. Name of the theme
+msgid "Industrial"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://themeforest.net/user/Anps/portfolio"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"It can be used for business and corporate sites, your portfolio site or "
+"customize it to suit your wishes. Easy to use and clean code will be a "
+"simple task to get you up and running in no time. And with our support you "
+"cannot go wrong."
+msgstr ""
+
+#. Author of the theme
+msgid "AnpsThemes"
+msgstr ""
